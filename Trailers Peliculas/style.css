@@ -1,0 +1,45 @@
+body{
+	color: #333;
+	font-family: "Helvetica Neue";
+	font-size: 16px;
+	line-height: 1.6;
+	margin-top: -15px;
+	margin-left: 0;
+	margin-right: 0;
+}
+
+header{
+	background: whitesmoke;
+	border-bottom: 1px solid #ddd;
+}
+
+img{
+	width: 100px;
+}
+
+.square{
+	padding: 10px;
+	margin: 20px 20px;
+	text-align: center;
+	border-radius: 9px;
+	border: 1px solid gray;
+	background: whitesmoke;
+	width: 200px;
+	height: 260px;
+	display: inline-block;
+}
+
+a{
+	text-decoration: none;
+}
+
+a:hover{
+	color: red;
+	border: 3px solid black;
+
+}
+
+
+
+
+
